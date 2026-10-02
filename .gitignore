@@ -1,0 +1,38 @@
+# Virtual environment
+
+.venv/
+venv/
+env/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# Environment variables / secrets
+
+.env
+.env.*
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.log
+
+# Antigravity / temporary development files
+
+scratch*
+inventory_output.json
